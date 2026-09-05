@@ -1,0 +1,6 @@
+Channel_ID,Sensor_Type,Voltage_V,Current_mA
+CH_01,Photodiode,5.01,15.2
+CH_02,Laser_Diode,12.45,142.8
+CH_03,Thermal_Sensor,3.28,8.1
+CH_04,Laser_Diode,12.38,139.5
+CH_05,Photodiode,4.98,14.8
