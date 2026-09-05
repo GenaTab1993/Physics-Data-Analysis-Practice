@@ -1,0 +1,3 @@
+Channel_ID,Sensor_Type,Voltage_V,Current_mA,Power_W
+CH_02,Laser_Diode,12.45,142.8,1.7778600000000002
+CH_04,Laser_Diode,12.38,139.5,1.7270100000000002
